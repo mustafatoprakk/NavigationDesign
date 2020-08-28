@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDesign</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="collection">Collection</string>
+    <string name="inbox">Inbox</string>
+    <string name="orders">Orders</string>
+    <string name="others">Others</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="about_us">About Us</string>
+    <string name="mustafa_toprak">Mustafa Toprak</string>
+    <string name="verified">Verified</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
